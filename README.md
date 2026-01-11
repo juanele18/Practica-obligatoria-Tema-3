@@ -41,7 +41,7 @@ Se creará una carpeta con el programa dentro.
 ## 4. Ejecutar el programa
 
 1. Abre la carpeta extraída.
-2. Busca el archivo del programa (por ejemplo `MiPrograma.jar`).
+2. Busca el archivo del programa.
 3. Haz doble clic sobre el archivo.
 4. El programa se abrirá automáticamente.
 
