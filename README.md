@@ -54,5 +54,4 @@ Si el programa no se abre:
 
 ## 5. Guía del programa
 
-(Este apartado será completado más adelante)
-<img width="516" height="356" alt="image" src="https://github.com/user-attachments/assets/15adeb2a-f6ec-4b23-acf0-2925178977ed" />
+
