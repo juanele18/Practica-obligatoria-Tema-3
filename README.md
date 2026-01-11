@@ -91,8 +91,15 @@ Aquí podras elegir entre 2 opciones, quitar un producto de la venta o venderlo
 
 #### Quitar un producto de la venta
 
+Te saldrán los productos que tienes a la venta y te pedirá el nombre del producto, lo escribes y se eliminará.
+
 <img width="471" height="197" alt="image" src="https://github.com/user-attachments/assets/314719ae-964d-47ed-b950-3b2c6f3dd1ac" />
 
+#### Vender un producto
+
+Te saldrá a elegir entre los productos que estén disponibles para comprar y selecionas uno poniendo el nombre del producto, luego te pedirá que pongas la descripción del producto, el email del comprador, que sería el del usuario al que se lo vas a vender, el precio que debe pagar,una puntuación sobre 5 y un comentario si quieres añadir alguna opinión.
+
+<img width="589" height="280" alt="image" src="https://github.com/user-attachments/assets/1e30a7d0-1e2e-448a-ae7e-d5cd7b6c2a1e" />
 
 ### Poner a la venta un nuevo producto
 
@@ -102,8 +109,23 @@ Te pedirá que le pongas el nombre al producto que quieras vender, su descripci�
 
 ### Ver todos los productos en venta de la aplicación
 
+Aquí podrás ver todos los productos que hay puestos en venta de los usuarios en la aplicación. 
+
+<img width="467" height="281" alt="image" src="https://github.com/user-attachments/assets/517be4d9-18c1-44fe-af22-855a2be4f2d5" />
+
 ### Ver mi histórico de ventas
 
+En esta opción puedes ver el historial de todas las ventas que has realizado desde que te registraste.
+
+<img width="495" height="152" alt="image" src="https://github.com/user-attachments/assets/43484321-4132-4fda-aa33-8ef8a26e4b1b" />
+
 ### Ver mi histórico de compras 
+Aquí podras ver el historial de todas las compras que has realizado.
+
+<img width="497" height="158" alt="image" src="https://github.com/user-attachments/assets/8fb1acd7-b69d-465b-881e-d62550c12edf" />
 
 ### Salir del usuario
+
+En la última opción podras cerrar sesión en tu usuario y ya aquí o podemos volver a iniciar la sesión o salir de la aplicación.
+
+<img width="430" height="142" alt="image" src="https://github.com/user-attachments/assets/76857690-7665-4b22-a38f-cdabb739773b" />
