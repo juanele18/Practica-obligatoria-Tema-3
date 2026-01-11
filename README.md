@@ -63,7 +63,7 @@ Nos pide que le pongamos el email, luego la clave y nos dará la bienvenida.
 
 ### 2. Menú principal
 
-Nos aparecerá un menú con todas las opciones disponibles en el programa, elegirála que más desee.
+Nos aparecerá un menú con todas las opciones disponibles en el programa, elegirá la que más desee.
 
 <img width="529" height="213" alt="image" src="https://github.com/user-attachments/assets/18a5d5da-85ae-4b9e-a4ea-481d98f8561d" />
 
@@ -79,8 +79,31 @@ En esta opción se podra cambiar todos los datos personales dichos anteriormente
 
 <img width="310" height="114" alt="image" src="https://github.com/user-attachments/assets/c6c53006-9f4a-4706-b807-32d29399d888" />
 
-### 
+### Ver mis productos en venta
 
-###
+En esta opción podrá ver todos los productos que ustéd a puesto en venta. Solo podrá poner 2 productos en venta como máximo por usuario.
+
+<img width="423" height="145" alt="image" src="https://github.com/user-attachments/assets/0f240ba3-33ba-40cf-bae5-10411803b432" />
+
+### Cerrar la venta de un producto o quitarlo de la venta
+
+Aquí podras elegir entre 2 opciones, quitar un producto de la venta o venderlo
+
+#### Quitar un producto de la venta
+
+<img width="471" height="197" alt="image" src="https://github.com/user-attachments/assets/314719ae-964d-47ed-b950-3b2c6f3dd1ac" />
+
+
+### Poner a la venta un nuevo producto
+
+Te pedirá que le pongas el nombre al producto que quieras vender, su descripción, el email del vendedor, osea, el tuyo, y el precio deseado, después de eso se pondrá a la venta.
 
 <img width="587" height="113" alt="image" src="https://github.com/user-attachments/assets/5c50efe8-fed7-46c6-b26a-26bcc8afcd55" />
+
+### Ver todos los productos en venta de la aplicación
+
+### Ver mi histórico de ventas
+
+### Ver mi histórico de compras 
+
+### Salir del usuario
