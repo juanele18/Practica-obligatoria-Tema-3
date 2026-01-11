@@ -7,8 +7,6 @@ No se necesitan conocimientos previos de informática.
 
 ## 1. Instalación de Windows
 
-> Este apartado es solo informativo. En la mayoría de ordenadores Windows ya viene instalado.
-
 1. Enciende el ordenador.
 2. Si aparece una pantalla que pide idioma, selecciona **Español**.
 3. Pulsa **Siguiente** y después **Instalar**.
@@ -20,7 +18,7 @@ No se necesitan conocimientos previos de informática.
 
 ## 2. Descargar el programa
 
-1. Abre el navegador de internet (Google Chrome, Edge o similar).
+1. Abre el navegador de internet (Google Chrome, Edge o el que uses).
 2. Accede a la página del repositorio de GitHub donde está el programa.
 3. Pulsa el botón verde que pone **Code**.
 4. Pulsa en **Download ZIP**.
@@ -57,3 +55,4 @@ Si el programa no se abre:
 ## 5. Guía del programa
 
 (Este apartado será completado más adelante)
+<img width="516" height="356" alt="image" src="https://github.com/user-attachments/assets/15adeb2a-f6ec-4b23-acf0-2925178977ed" />
