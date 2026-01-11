@@ -58,5 +58,6 @@ Si el programa no se abre:
 
 Primero le pide que elija entre registrarse como usuario o salir del programa, le damos a registrarse.
 Nos pide que le pongamos el email, luego la clave y nos dará la bienvenida.
+
 <img width="435" height="161" alt="image" src="https://github.com/user-attachments/assets/2e23a567-b1a4-4504-976d-5783b3771ce6" />
 
