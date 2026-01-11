@@ -54,7 +54,7 @@ Si el programa no se abre:
 
 ## 5. Guía del programa
 
-## 1. Registrarse en el programa
+### 1. Registrarse en el programa
 
 Primero le pide que elija entre registrarse como usuario o salir del programa, le damos a registrarse.
 Nos pide que le pongamos el email, luego la clave y nos dará la bienvenida.
