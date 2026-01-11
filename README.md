@@ -54,10 +54,33 @@ Si el programa no se abre:
 
 ## 5. Guía del programa
 
-### 1. Registrarse en el programa
+## 1. Registrarse en el programa
 
 Primero le pide que elija entre registrarse como usuario o salir del programa, le damos a registrarse.
 Nos pide que le pongamos el email, luego la clave y nos dará la bienvenida.
 
 <img width="435" height="161" alt="image" src="https://github.com/user-attachments/assets/2e23a567-b1a4-4504-976d-5783b3771ce6" />
 
+### 2. Menú principal
+
+Nos aparecerá un menú con todas las opciones disponibles en el programa, elegirála que más desee.
+
+<img width="529" height="213" alt="image" src="https://github.com/user-attachments/assets/18a5d5da-85ae-4b9e-a4ea-481d98f8561d" />
+
+### Mostrar mi perfil de ususario
+
+Nos saldrá nuestro perfil dándo información como el nombre, apellidos, calle, email, etc.
+
+<img width="327" height="182" alt="image" src="https://github.com/user-attachments/assets/98bf81fd-472b-4730-94ba-f162f7b8f3ff" />
+
+### Cambiar mis datos personales
+
+En esta opción se podra cambiar todos los datos personales dichos anteriormente, eligiendo el que ustéd necesite cambiar.
+
+<img width="310" height="114" alt="image" src="https://github.com/user-attachments/assets/c6c53006-9f4a-4706-b807-32d29399d888" />
+
+### 
+
+###
+
+<img width="587" height="113" alt="image" src="https://github.com/user-attachments/assets/5c50efe8-fed7-46c6-b26a-26bcc8afcd55" />
