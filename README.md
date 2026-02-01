@@ -222,7 +222,7 @@ Notificaciones para el administrador
 
 El administrador de la aplicación recibe notificaciones automáticas a través de diferentes medios.
 
-Notificaciones por Telegram
+Notificaciones por Telegram:
 
 Mediante Telegram, el administrador recibe mensajes cuando:
 
@@ -232,7 +232,7 @@ Se vende un producto.
 
 Esto permite supervisar la actividad en tiempo real.
 
-Notificaciones por Gmail
+Notificaciones por Gmail:
 
 A través del correo electrónico (Gmail), el administrador recibe avisos sobre:
 
