@@ -129,3 +129,113 @@ Aquí podras ver el historial de todas las compras que has realizado.
 En la última opción podras cerrar sesión en tu usuario y ya aquí o podemos volver a iniciar la sesión o salir de la aplicación.
 
 <img width="430" height="142" alt="image" src="https://github.com/user-attachments/assets/76857690-7665-4b22-a38f-cdabb739773b" />
+
+## Actualizaciones de la aplicación
+
+### Nuevo sistema de registro con creación de usuarios
+
+Ahora, al registrarse en el programa, se pueden crear usuarios propios.
+
+Cada usuario podrá crear como máximo dos cuentas.
+
+El proceso de registro es el siguiente:
+
+Selecciona la opción Registrarse en el menú inicial.
+
+Introduce tu correo personal.
+
+Crea una clave para tu usuario.
+
+Recibirás un correo electrónico con un token de verificación.
+
+Introduce el token en el programa para confirmar tu cuenta.
+
+Una vez confirmado, el usuario quedará registrado correctamente.
+
+Después de este proceso, ya se podrá iniciar sesión con el correo y la clave.
+
+<img width="514" height="276" alt="image" src="https://github.com/user-attachments/assets/c0fc5bc8-7252-48d5-9d1c-fbcfd5c687e5" />
+
+<img width="509" height="292" alt="image" src="https://github.com/user-attachments/assets/58081eee-f233-482a-8bc1-329ce3832ff7" />
+
+### Nuevo sistema de inicio de sesión
+
+Una vez confirmada la cuenta con el token, el usuario podrá iniciar sesión normalmente.
+
+El proceso es el siguiente:
+
+Selecciona la opción Iniciar sesión.
+
+Introduce tu correo electrónico.
+
+Introduce tu clave.
+
+Pulsa para acceder.
+
+Si los datos son correctos, se entrará directamente al menú principal.
+
+<img width="482" height="310" alt="image" src="https://github.com/user-attachments/assets/e07a148e-e6d7-4cad-97f4-81f64020a70a" />
+
+### Visualización del ID del producto en los productos en venta
+
+Ahora, cuando se consultan los productos disponibles en la aplicación, se muestra también el ID del producto.
+
+Este identificador permite reconocer cada producto de forma única.
+
+Cuando se accede a la opción Ver todos los productos en venta, aparecerá:
+
+Nombre del producto
+
+Descripción
+
+Precio
+
+Email del vendedor
+
+ID del producto
+
+Esto facilita la identificación de los productos al comprarlos o gestionarlos.
+
+<img width="504" height="276" alt="image" src="https://github.com/user-attachments/assets/8fe14c68-219b-4476-aabe-2d52524e0109" />
+
+### Sistema de notificaciones personalizadas por correo y Telegram
+
+Ahora, la aplicación cuenta con un sistema de notificaciones automáticas para mantener informados a los usuarios y al administrador.
+
+Correos personalizados para los usuarios
+
+Al registrarse en la aplicación, el usuario recibe un correo personalizado que incluye:
+
+Su token de verificación.
+
+Además, los usuarios reciben correos cuando ocurre alguna de las siguientes acciones:
+
+Cuando se sube un nuevo producto a la aplicación.
+
+Cuando uno de sus productos se vende.
+
+Cuando realizan una compra.
+
+Estos correos permiten estar siempre informados del estado de sus operaciones.
+
+Notificaciones para el administrador
+
+El administrador de la aplicación recibe notificaciones automáticas a través de diferentes medios.
+
+Notificaciones por Telegram
+
+Mediante Telegram, el administrador recibe mensajes cuando:
+
+Se añade un nuevo producto.
+
+Se vende un producto.
+
+Esto permite supervisar la actividad en tiempo real.
+
+Notificaciones por Gmail
+
+A través del correo electrónico (Gmail), el administrador recibe avisos sobre:
+
+Nuevos registros de usuarios, etc.
+
+De esta forma, el administrador puede llevar un mejor control de la aplicación.
