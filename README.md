@@ -154,9 +154,9 @@ Una vez confirmado, el usuario quedará registrado correctamente.
 
 Después de este proceso, ya se podrá iniciar sesión con el correo y la clave.
 
-<img width="514" height="276" alt="image" src="https://github.com/user-attachments/assets/c0fc5bc8-7252-48d5-9d1c-fbcfd5c687e5" />
+<img width="444" height="163" alt="image" src="https://github.com/user-attachments/assets/92e0acb9-54f7-49d5-815f-70a7e2c093f4" />
 
-<img width="509" height="292" alt="image" src="https://github.com/user-attachments/assets/58081eee-f233-482a-8bc1-329ce3832ff7" />
+<img width="385" height="195" alt="image" src="https://github.com/user-attachments/assets/cf741532-8092-4c31-9c7c-6267f37f4a9e" />
 
 ### Nuevo sistema de inicio de sesión
 
@@ -174,7 +174,7 @@ Pulsa para acceder.
 
 Si los datos son correctos, se entrará directamente al menú principal.
 
-<img width="482" height="310" alt="image" src="https://github.com/user-attachments/assets/e07a148e-e6d7-4cad-97f4-81f64020a70a" />
+<img width="417" height="198" alt="image" src="https://github.com/user-attachments/assets/4784b600-0403-4d17-a077-d41b7a2d5a2b" />
 
 ### Visualización del ID del producto en los productos en venta
 
@@ -196,7 +196,7 @@ ID del producto
 
 Esto facilita la identificación de los productos al comprarlos o gestionarlos.
 
-<img width="504" height="276" alt="image" src="https://github.com/user-attachments/assets/8fe14c68-219b-4476-aabe-2d52524e0109" />
+<img width="429" height="172" alt="image" src="https://github.com/user-attachments/assets/834a8550-c40f-49d6-a45a-d54f96069db8" />
 
 ### Sistema de notificaciones personalizadas por correo y Telegram
 
